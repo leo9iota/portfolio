@@ -138,4 +138,4 @@ export const SocialIcons = styled.a`
 		background-color: #212d45;
 		cursor: pointer;
 	}
-`
+`;
