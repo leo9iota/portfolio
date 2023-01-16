@@ -94,7 +94,7 @@ export const ExternalLinks = styled.a`
   font-size: 1.6rem;
   padding:1rem 1.5rem;
   background: #6b3030;
-  border-radius: 15px;
+  border-radius: 10px;
   transition: 0.5s;
 
   &:hover{
