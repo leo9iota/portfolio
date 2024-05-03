@@ -1,8 +1,14 @@
-## Personal Portfolio
+# ✨Portfolio
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="50" height="50"/>&nbsp;
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents" />
+  </a>
+</p>
+
+## 🖼️ Images
+
+![Hero Section](./src/img/portfolio-hero-section.png)
+![Technologies Section](./src/img/portfolio-technologies-section.png)
