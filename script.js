@@ -1,3 +1,7 @@
+class MatrixRain {}
+
+class Terminal {}
+
 const matrixChars =
     'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+-=[]{}|;:,./<>?';
 const username = 'leo9iota';
